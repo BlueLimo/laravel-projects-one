@@ -1,0 +1,61 @@
+.add-staff
+{
+    margin-right: 5%;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+.add-staff a
+{
+    text-decoration: none;
+    border: 1px solid #eef;
+    padding: 10px;
+}
+.add-staff a:hover
+{
+    background-color: #eef;
+    color: #006699;
+}
+.view
+{
+    color: #006633;
+    padding-right: 10px;
+}
+.update
+{
+    color: #006699;
+    padding-right: 10px;
+}
+.remove
+{
+    color: red;
+    padding-right: 10px;
+}
+table{
+    border: 1px solid #eef;
+    padding: 10px;
+
+}
+thead{
+    border-bottom: 1px solid #eef;
+    font-size: 14px;
+}
+th
+{
+    padding: 10px 10px 10px 20px;
+}
+td{
+    padding: 10px 10px 10px 20px;
+    border-bottom: 1px solid #eef;
+}
+tfoot
+{
+    color: #cacaca;
+}
+.panel-body
+{
+
+}
+.form-horizontal
+{
+    width: 100%;
+}
